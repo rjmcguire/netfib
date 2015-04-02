@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"memutils": "0.3.1",
+		"backtrace-d": "~master",
+		"openssl": "1.1.4+1.0.1g"
+	}
+}
